@@ -1,0 +1,1870 @@
+,genesymbol,pathway
+0,A8K7J7,Galactose metabolism
+1,A8K7J7,Fructose and mannose metabolism
+2,A8K7J7,Starch and sucrose metabolism
+3,A8K7J7,Amino sugar and nucleotide sugar metabolism
+4,A8K7J7,Metabolic pathways
+5,A8K7J7,Butirosin and neomycin biosynthesis
+6,A8K7J7,Glycolysis / Gluconeogenesis
+7,B4DDQ8,Glycolysis / Gluconeogenesis
+8,B4DDQ8,Pentose phosphate pathway
+9,B4DDQ8,Starch and sucrose metabolism
+10,B4DDQ8,Amino sugar and nucleotide sugar metabolism
+11,B4DDQ8,Metabolic pathways
+12,B4DDQ8,Purine metabolism
+13,B4DDQ8,Galactose metabolism
+14,PKM,Metabolic pathways
+15,PKM,Pyruvate metabolism
+16,PKM,Purine metabolism
+17,PKM,Glycolysis / Gluconeogenesis
+18,OGDH,Lysine degradation
+19,OGDH,Glycolysis / Gluconeogenesis
+20,OGDH,Pyruvate metabolism
+21,OGDH,Citrate cycle (TCA cycle)
+22,OGDH,Metabolic pathways
+23,OGDH,"Valine, leucine and isoleucine degradation"
+24,OGDH,Tryptophan metabolism
+25,GAPDH,Metabolic pathways
+26,GAPDH,Glycolysis / Gluconeogenesis
+27,GPI,Pentose phosphate pathway
+28,GPI,Starch and sucrose metabolism
+29,GPI,Amino sugar and nucleotide sugar metabolism
+30,GPI,Metabolic pathways
+31,GPI,Glycolysis / Gluconeogenesis
+32,PGK2,Metabolic pathways
+33,PGK2,Glycolysis / Gluconeogenesis
+34,BPGM,Metabolic pathways
+35,BPGM,Glycolysis / Gluconeogenesis
+36,FBP1,Fructose and mannose metabolism
+37,FBP1,Metabolic pathways
+38,FBP1,Pentose phosphate pathway
+39,FBP1,Glycolysis / Gluconeogenesis
+40,DLD,Citrate cycle (TCA cycle)
+41,DLD,Metabolic pathways
+42,DLD,Tryptophan metabolism
+43,DLD,Glycolysis / Gluconeogenesis
+44,DLD,"Glycine, serine and threonine metabolism"
+45,DLD,Pyruvate metabolism
+46,DLD,Nitrogen metabolism
+47,DLD,"Valine, leucine and isoleucine degradation"
+48,ALDOC,Fructose and mannose metabolism
+49,ALDOC,Metabolic pathways
+50,ALDOC,Pentose phosphate pathway
+51,ALDOC,Glycolysis / Gluconeogenesis
+52,DLAT,Citrate cycle (TCA cycle)
+53,DLAT,Pyruvate metabolism
+54,DLAT,Glycolysis / Gluconeogenesis
+55,PDHB,Butanoate metabolism
+56,PDHB,Pyruvate metabolism
+57,PDHB,Citrate cycle (TCA cycle)
+58,PDHB,"Valine, leucine and isoleucine biosynthesis"
+59,PDHB,Metabolic pathways
+60,PDHB,Glycolysis / Gluconeogenesis
+61,AKR1A1,Metabolic pathways
+62,AKR1A1,Glycerolipid metabolism
+63,AKR1A1,Glycolysis / Gluconeogenesis
+64,ALDH3A1,Metabolism of xenobiotics by cytochrome P450
+65,ALDH3A1,Tyrosine metabolism
+66,ALDH3A1,Metabolic pathways
+67,ALDH3A1,Histidine metabolism
+68,ALDH3A1,Glycolysis / Gluconeogenesis
+69,ALDH3A1,Fatty acid degradation
+70,ALDH3A1,beta-Alanine metabolism
+71,ALDH3A1,Pyruvate metabolism
+72,ALDH3A1,Phenylalanine metabolism
+73,ALDH3A1,Drug metabolism - cytochrome P450
+74,GCK,Galactose metabolism
+75,GCK,Starch and sucrose metabolism
+76,GCK,Amino sugar and nucleotide sugar metabolism
+77,GCK,Metabolic pathways
+78,GCK,Butirosin and neomycin biosynthesis
+79,GCK,Glycolysis / Gluconeogenesis
+80,ALDH3A2,Lysine degradation
+81,ALDH3A2,Ascorbate and aldarate metabolism
+82,ALDH3A2,Pentose and glucuronate interconversions
+83,ALDH3A2,Tryptophan metabolism
+84,ALDH3A2,Histidine metabolism
+85,ALDH3A2,Metabolic pathways
+86,ALDH3A2,Glycerolipid metabolism
+87,ALDH3A2,Glycolysis / Gluconeogenesis
+88,ALDH3A2,Fatty acid degradation
+89,ALDH3A2,beta-Alanine metabolism
+90,ALDH3A2,Pyruvate metabolism
+91,ALDH3A2,Arginine and proline metabolism
+92,ALDH3A2,Propanoate metabolism
+93,ALDH3A2,"Valine, leucine and isoleucine degradation"
+94,NME5,Pyruvate metabolism
+95,NME5,Pyrimidine metabolism
+96,NME5,Metabolic pathways
+97,NME5,Purine metabolism
+98,NME5,Glycolysis / Gluconeogenesis
+99,TPI1,Fructose and mannose metabolism
+100,TPI1,Metabolic pathways
+101,TPI1,Inositol phosphate metabolism
+102,TPI1,Glycolysis / Gluconeogenesis
+103,PFKP,Galactose metabolism
+104,PFKP,Pentose phosphate pathway
+105,PFKP,Fructose and mannose metabolism
+106,PFKP,Metabolic pathways
+107,PFKP,Glycolysis / Gluconeogenesis
+108,PCK2,Citrate cycle (TCA cycle)
+109,PCK2,Metabolic pathways
+110,PCK2,Pyruvate metabolism
+111,PCK2,Glycolysis / Gluconeogenesis
+112,ENO2,Metabolic pathways
+113,ENO2,Glycolysis / Gluconeogenesis
+114,ADH5,Metabolism of xenobiotics by cytochrome P450
+115,ADH5,Fatty acid degradation
+116,ADH5,Tyrosine metabolism
+117,ADH5,Metabolic pathways
+118,ADH5,Retinol metabolism
+119,ADH5,Drug metabolism - cytochrome P450
+120,ADH5,Glycolysis / Gluconeogenesis
+121,LDHAL6A,Pyruvate metabolism
+122,LDHAL6A,Propanoate metabolism
+123,LDHAL6A,Metabolic pathways
+124,LDHAL6A,Cysteine and methionine metabolism
+125,LDHAL6A,Glycolysis / Gluconeogenesis
+126,ADH6,Metabolic pathways
+127,ADH6,Glycolysis / Gluconeogenesis
+128,GALM,Glycolysis / Gluconeogenesis
+129,ADPGK,Metabolic pathways
+130,ADPGK,Glycolysis / Gluconeogenesis
+131,G6PC2,Starch and sucrose metabolism
+132,G6PC2,Glycolysis / Gluconeogenesis
+133,G6PC2,Metabolic pathways
+134,G6PC2,Galactose metabolism
+135,ACSS2,Glycolysis / Gluconeogenesis
+136,ACSS2,Metabolic pathways
+137,ACSS2,Pyruvate metabolism
+138,ACSS2,Propanoate metabolism
+139,B4DJB4,Glutathione metabolism
+140,B4DJB4,Metabolic pathways
+141,B4DJB4,Citrate cycle (TCA cycle)
+142,SUCLA2,Citrate cycle (TCA cycle)
+143,SUCLA2,Metabolic pathways
+144,SUCLA2,Propanoate metabolism
+145,CS,Citrate cycle (TCA cycle)
+146,CS,Glyoxylate and dicarboxylate metabolism
+147,CS,Metabolic pathways
+148,IDH1,Glutathione metabolism
+149,IDH1,Metabolic pathways
+150,IDH1,Citrate cycle (TCA cycle)
+151,FH,Citrate cycle (TCA cycle)
+152,FH,Metabolic pathways
+153,PC,Citrate cycle (TCA cycle)
+154,PC,Metabolic pathways
+155,PC,Pyruvate metabolism
+156,SDHA,Citrate cycle (TCA cycle)
+157,SDHA,Metabolic pathways
+158,DLST,Citrate cycle (TCA cycle)
+159,DLST,Lysine degradation
+160,DLST,Metabolic pathways
+161,DLST,Tryptophan metabolism
+162,MDH1,Citrate cycle (TCA cycle)
+163,MDH1,Glyoxylate and dicarboxylate metabolism
+164,MDH1,Metabolic pathways
+165,MDH1,Pyruvate metabolism
+166,ACLY,Citrate cycle (TCA cycle)
+167,ACLY,Glyoxylate and dicarboxylate metabolism
+168,ACLY,Metabolic pathways
+169,IRP1,Citrate cycle (TCA cycle)
+170,IRP1,Glyoxylate and dicarboxylate metabolism
+171,IRP1,Metabolic pathways
+172,PGLS,Metabolic pathways
+173,PGLS,Pentose phosphate pathway
+174,H6PD,Glutathione metabolism
+175,H6PD,Metabolic pathways
+176,H6PD,Pentose phosphate pathway
+177,G6PD,Glutathione metabolism
+178,G6PD,Metabolic pathways
+179,G6PD,Pentose phosphate pathway
+180,PRPS2,Metabolic pathways
+181,PRPS2,Pentose phosphate pathway
+182,PRPS2,Purine metabolism
+183,TALDO1,Metabolic pathways
+184,TALDO1,Pentose phosphate pathway
+185,RPIA,Metabolic pathways
+186,RPIA,Pentose phosphate pathway
+187,PGD,Glutathione metabolism
+188,PGD,Metabolic pathways
+189,PGD,Pentose phosphate pathway
+190,RGN,Metabolic pathways
+191,RGN,Ascorbate and aldarate metabolism
+192,RGN,Pentose phosphate pathway
+193,RPEL1,Metabolic pathways
+194,RPEL1,Pentose phosphate pathway
+195,RPEL1,Pentose and glucuronate interconversions
+196,TKTL2,Metabolic pathways
+197,TKTL2,Pentose phosphate pathway
+198,RBKS,Pentose phosphate pathway
+199,DERA,Pentose phosphate pathway
+200,UGDH,Ascorbate and aldarate metabolism
+201,UGDH,Pentose and glucuronate interconversions
+202,UGDH,Starch and sucrose metabolism
+203,UGDH,Amino sugar and nucleotide sugar metabolism
+204,UGDH,Metabolic pathways
+205,XYLB,Metabolic pathways
+206,XYLB,Pentose and glucuronate interconversions
+207,GUSB,Porphyrin and chlorophyll metabolism
+208,GUSB,Glycosaminoglycan degradation
+209,GUSB,Pentose and glucuronate interconversions
+210,GUSB,Starch and sucrose metabolism
+211,GUSB,Metabolic pathways
+212,GUSB,Drug metabolism - other enzymes
+213,AKR1B1,Pyruvate metabolism
+214,AKR1B1,Pentose and glucuronate interconversions
+215,AKR1B1,Fructose and mannose metabolism
+216,AKR1B1,Metabolic pathways
+217,AKR1B1,Glycerolipid metabolism
+218,AKR1B1,Galactose metabolism
+219,UGP2,Pentose and glucuronate interconversions
+220,UGP2,Starch and sucrose metabolism
+221,UGP2,Amino sugar and nucleotide sugar metabolism
+222,UGP2,Metabolic pathways
+223,UGP2,Galactose metabolism
+224,UGT1A10,Metabolism of xenobiotics by cytochrome P450
+225,UGT1A10,Ascorbate and aldarate metabolism
+226,UGT1A10,Pentose and glucuronate interconversions
+227,UGT1A10,Starch and sucrose metabolism
+228,UGT1A10,Metabolic pathways
+229,UGT1A10,Drug metabolism - other enzymes
+230,UGT1A10,Porphyrin and chlorophyll metabolism
+231,UGT1A10,Steroid hormone biosynthesis
+232,UGT1A10,Retinol metabolism
+233,UGT1A10,Drug metabolism - cytochrome P450
+234,DCXR,Metabolic pathways
+235,DCXR,Pentose and glucuronate interconversions
+236,DHDH,Pentose and glucuronate interconversions
+237,CRYL1,Metabolic pathways
+238,CRYL1,Pentose and glucuronate interconversions
+239,B7ZAG8,Fructose and mannose metabolism
+240,FPGT,Fructose and mannose metabolism
+241,FPGT,Amino sugar and nucleotide sugar metabolism
+242,FPGT,Metabolic pathways
+243,AKR1B10,Fructose and mannose metabolism
+244,AKR1B10,Butanoate metabolism
+245,AKR1B10,Metabolic pathways
+246,AKR1B10,Linoleic acid metabolism
+247,GMDS,Fructose and mannose metabolism
+248,GMDS,Amino sugar and nucleotide sugar metabolism
+249,GMDS,Metabolic pathways
+250,MPI,Fructose and mannose metabolism
+251,MPI,Amino sugar and nucleotide sugar metabolism
+252,MPI,Metabolic pathways
+253,KHK,Fructose and mannose metabolism
+254,KHK,Metabolic pathways
+255,SORD,Fructose and mannose metabolism
+256,SORD,Metabolic pathways
+257,GFUS,Fructose and mannose metabolism
+258,GFUS,Amino sugar and nucleotide sugar metabolism
+259,GFUS,Metabolic pathways
+260,PFKFB4,Fructose and mannose metabolism
+261,FCSK,Fructose and mannose metabolism
+262,FCSK,Amino sugar and nucleotide sugar metabolism
+263,FCSK,Metabolic pathways
+264,PMM1,Fructose and mannose metabolism
+265,PMM1,Amino sugar and nucleotide sugar metabolism
+266,PMM1,Metabolic pathways
+267,GMPPB,Fructose and mannose metabolism
+268,GMPPB,Amino sugar and nucleotide sugar metabolism
+269,GMPPB,Metabolic pathways
+270,GLA,Glycosphingolipid biosynthesis - globo series
+271,GLA,Sphingolipid metabolism
+272,GLA,Glycerolipid metabolism
+273,GLA,Galactose metabolism
+274,GALT,Amino sugar and nucleotide sugar metabolism
+275,GALT,Metabolic pathways
+276,GALT,Galactose metabolism
+277,LCT,Sphingolipid metabolism
+278,LCT,Metabolic pathways
+279,LCT,Galactose metabolism
+280,SI,Starch and sucrose metabolism
+281,SI,Metabolic pathways
+282,SI,Galactose metabolism
+283,B4GALT1,Glycosphingolipid biosynthesis - lacto and neolacto series
+284,B4GALT1,Metabolic pathways
+285,B4GALT1,Galactose metabolism
+286,GLB1,Glycosphingolipid biosynthesis - ganglio series
+287,GLB1,Glycosaminoglycan degradation
+288,GLB1,Sphingolipid metabolism
+289,GLB1,Metabolic pathways
+290,GLB1,Galactose metabolism
+291,GALE,Amino sugar and nucleotide sugar metabolism
+292,GALE,Metabolic pathways
+293,GALE,Galactose metabolism
+294,GANC,Starch and sucrose metabolism
+295,GANC,Metabolic pathways
+296,GANC,Galactose metabolism
+297,HEL-S-19,Amino sugar and nucleotide sugar metabolism
+298,HEL-S-19,Metabolic pathways
+299,HEL-S-19,Galactose metabolism
+300,MIOX,Ascorbate and aldarate metabolism
+301,MIOX,Inositol phosphate metabolism
+302,FASN,Metabolic pathways
+303,FASN,Fatty acid biosynthesis
+304,ACACA,Metabolic pathways
+305,ACACA,Pyruvate metabolism
+306,ACACA,Fatty acid biosynthesis
+307,ACACA,Propanoate metabolism
+308,MCAT,Metabolic pathways
+309,MCAT,Fatty acid biosynthesis
+310,ELOVL6,Fatty acid biosynthesis
+311,ELOVL6,Biosynthesis of unsaturated fatty acids
+312,OLAH,Metabolic pathways
+313,OLAH,Fatty acid biosynthesis
+314,OXSM,Metabolic pathways
+315,OXSM,Fatty acid biosynthesis
+316,OXSM,Biosynthesis of unsaturated fatty acids
+317,ELOVL2,Fatty acid biosynthesis
+318,ELOVL2,Biosynthesis of unsaturated fatty acids
+319,HADH,Lysine degradation
+320,HADH,Butanoate metabolism
+321,HADH,Fatty acid degradation
+322,HADH,Fatty acid elongation
+323,HADH,Metabolic pathways
+324,HADH,"Valine, leucine and isoleucine degradation"
+325,HADH,Tryptophan metabolism
+326,ACSL4,Fatty acid elongation
+327,ACSL4,Metabolic pathways
+328,ACSL4,Biosynthesis of unsaturated fatty acids
+329,ACSL4,Fatty acid degradation
+330,ACADM,beta-Alanine metabolism
+331,ACADM,Fatty acid elongation
+332,ACADM,Propanoate metabolism
+333,ACADM,Metabolic pathways
+334,ACADM,"Valine, leucine and isoleucine degradation"
+335,ACADM,Fatty acid degradation
+336,ACAT1,Lysine degradation
+337,ACAT1,Terpenoid backbone biosynthesis
+338,ACAT1,Glyoxylate and dicarboxylate metabolism
+339,ACAT1,Tryptophan metabolism
+340,ACAT1,Metabolic pathways
+341,ACAT1,Fatty acid degradation
+342,ACAT1,Butanoate metabolism
+343,ACAT1,Fatty acid elongation
+344,ACAT1,Pyruvate metabolism
+345,ACAT1,Synthesis and degradation of ketone bodies
+346,ACAT1,Propanoate metabolism
+347,ACAT1,"Valine, leucine and isoleucine degradation"
+348,ECHS1,Lysine degradation
+349,ECHS1,Metabolic pathways
+350,ECHS1,Tryptophan metabolism
+351,ECHS1,Fatty acid degradation
+352,ECHS1,Butanoate metabolism
+353,ECHS1,beta-Alanine metabolism
+354,ECHS1,Fatty acid elongation
+355,ECHS1,Propanoate metabolism
+356,ECHS1,"Valine, leucine and isoleucine degradation"
+357,HADHA,Fatty acid elongation
+358,HADHA,Metabolic pathways
+359,HADHA,Biosynthesis of unsaturated fatty acids
+360,HADHA,Fatty acid degradation
+361,ACAA2,Fatty acid elongation
+362,ACAA2,Metabolic pathways
+363,ACAA2,"Valine, leucine and isoleucine degradation"
+364,ACAA2,Fatty acid degradation
+365,ACADSB,Butanoate metabolism
+366,ACADSB,Fatty acid elongation
+367,ACADSB,Metabolic pathways
+368,ACADSB,"Valine, leucine and isoleucine degradation"
+369,ACADSB,Fatty acid degradation
+370,ACADVL,Fatty acid elongation
+371,ACADVL,Metabolic pathways
+372,ACADVL,Fatty acid degradation
+373,ACOT2,Fatty acid elongation
+374,ACOT2,Metabolic pathways
+375,ACOT2,Biosynthesis of unsaturated fatty acids
+376,PPT1,Fatty acid elongation
+377,PPT1,Metabolic pathways
+378,PPT1,Biosynthesis of unsaturated fatty acids
+379,EHHADH,Fatty acid elongation
+380,EHHADH,Metabolic pathways
+381,EHHADH,Fatty acid degradation
+382,BAAT,Fatty acid elongation
+383,BAAT,Primary bile acid biosynthesis
+384,BAAT,Biosynthesis of unsaturated fatty acids
+385,BAAT,Taurine and hypotaurine metabolism
+386,BAAT,Metabolic pathways
+387,MECR,Fatty acid elongation
+388,MECR,Metabolic pathways
+389,ACOX3,Metabolic pathways
+390,ACOX3,alpha-Linolenic acid metabolism
+391,ACOX3,Biosynthesis of unsaturated fatty acids
+392,ACOX3,Fatty acid degradation
+393,ECI2,Fatty acid degradation
+394,ACADS,Butanoate metabolism
+395,ACADS,Metabolic pathways
+396,ACADS,"Valine, leucine and isoleucine degradation"
+397,ACADS,Fatty acid degradation
+398,ACADL,Metabolic pathways
+399,ACADL,Fatty acid degradation
+400,CYP4A22,Metabolic pathways
+401,CYP4A22,Retinol metabolism
+402,CYP4A22,Arachidonic acid metabolism
+403,CYP4A22,Fatty acid degradation
+404,CPT1A,Fatty acid degradation
+405,GCDH,Lysine degradation
+406,GCDH,Metabolic pathways
+407,GCDH,Fatty acid degradation
+408,GCDH,Tryptophan metabolism
+409,HMGCL,Synthesis and degradation of ketone bodies
+410,HMGCL,Butanoate metabolism
+411,HMGCL,Metabolic pathways
+412,HMGCL,"Valine, leucine and isoleucine degradation"
+413,BDH1,Synthesis and degradation of ketone bodies
+414,BDH1,Butanoate metabolism
+415,BDH1,Metabolic pathways
+416,OXCT2,Synthesis and degradation of ketone bodies
+417,OXCT2,Butanoate metabolism
+418,OXCT2,"Valine, leucine and isoleucine degradation"
+419,CYP27B1,Metabolic pathways
+420,CYP27B1,Steroid biosynthesis
+421,SC5D,Metabolic pathways
+422,SC5D,Steroid biosynthesis
+423,TM7SF2,Metabolic pathways
+424,TM7SF2,Steroid biosynthesis
+425,SOAT1,Steroid biosynthesis
+426,FDFT1,Metabolic pathways
+427,FDFT1,Steroid biosynthesis
+428,LIPA,Steroid biosynthesis
+429,LSS,Metabolic pathways
+430,LSS,Steroid biosynthesis
+431,HSD17B7,Metabolic pathways
+432,HSD17B7,Steroid biosynthesis
+433,SQLE,Metabolic pathways
+434,SQLE,Steroid biosynthesis
+435,EBP,Metabolic pathways
+436,EBP,Steroid biosynthesis
+437,DHCR24,Metabolic pathways
+438,DHCR24,Steroid biosynthesis
+439,NSDHL,Metabolic pathways
+440,NSDHL,Steroid biosynthesis
+441,CYP51A1,Metabolic pathways
+442,CYP51A1,Steroid biosynthesis
+443,CYP2R1,Metabolic pathways
+444,CYP2R1,Steroid biosynthesis
+445,FAXDC2,Metabolic pathways
+446,FAXDC2,Steroid biosynthesis
+447,DHCR7,Metabolic pathways
+448,DHCR7,Steroid biosynthesis
+449,CYP7B1,Steroid hormone biosynthesis
+450,CYP7B1,Primary bile acid biosynthesis
+451,CH25H,Primary bile acid biosynthesis
+452,AKR1C4,Steroid hormone biosynthesis
+453,AKR1C4,Metabolism of xenobiotics by cytochrome P450
+454,AKR1C4,Metabolic pathways
+455,AKR1C4,Primary bile acid biosynthesis
+456,SCP2,Metabolic pathways
+457,SCP2,Primary bile acid biosynthesis
+458,CYP7A1,Steroid hormone biosynthesis
+459,CYP7A1,Metabolic pathways
+460,CYP7A1,Primary bile acid biosynthesis
+461,HSD17B4,Metabolic pathways
+462,HSD17B4,Primary bile acid biosynthesis
+463,AKR1D1,Steroid hormone biosynthesis
+464,AKR1D1,Metabolic pathways
+465,AKR1D1,Primary bile acid biosynthesis
+466,CYP27A1,Metabolic pathways
+467,CYP27A1,Primary bile acid biosynthesis
+468,ACOX2,Metabolic pathways
+469,ACOX2,Primary bile acid biosynthesis
+470,HSD3B7,Metabolic pathways
+471,HSD3B7,Primary bile acid biosynthesis
+472,CYP39A1,Primary bile acid biosynthesis
+473,AMACR,Metabolic pathways
+474,AMACR,Primary bile acid biosynthesis
+475,CYP8B1,Metabolic pathways
+476,CYP8B1,Primary bile acid biosynthesis
+477,SLC27A5,Metabolic pathways
+478,SLC27A5,Primary bile acid biosynthesis
+479,CYP46A1,Primary bile acid biosynthesis
+480,GOT2,Tyrosine metabolism
+481,GOT2,Ubiquinone and other terpenoid-quinone biosynthesis
+482,GOT2,Metabolic pathways
+483,GOT2,Cysteine and methionine metabolism
+484,GOT2,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+485,GOT2,Phenylalanine metabolism
+486,GOT2,"Alanine, aspartate and glutamate metabolism"
+487,GOT2,Arginine and proline metabolism
+488,GOT1,Ubiquinone and other terpenoid-quinone biosynthesis
+489,GOT1,Metabolic pathways
+490,GOT1,Tyrosine metabolism
+491,GOT1,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+492,TAT,"Alanine, aspartate and glutamate metabolism"
+493,TAT,Tyrosine metabolism
+494,TAT,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+495,TAT,Phenylalanine metabolism
+496,TAT,Ubiquinone and other terpenoid-quinone biosynthesis
+497,TAT,Metabolic pathways
+498,TAT,Cysteine and methionine metabolism
+499,HPD,Phenylalanine metabolism
+500,HPD,Ubiquinone and other terpenoid-quinone biosynthesis
+501,HPD,Metabolic pathways
+502,HPD,Tyrosine metabolism
+503,COQ5,Ubiquinone and other terpenoid-quinone biosynthesis
+504,COQ5,Metabolic pathways
+505,COQ2,Ubiquinone and other terpenoid-quinone biosynthesis
+506,COQ2,Metabolic pathways
+507,COQ7,Ubiquinone and other terpenoid-quinone biosynthesis
+508,COQ7,Metabolic pathways
+509,COQ3,Ubiquinone and other terpenoid-quinone biosynthesis
+510,COQ3,Metabolic pathways
+511,COQ6,Ubiquinone and other terpenoid-quinone biosynthesis
+512,COQ6,Metabolic pathways
+513,SULT2B1,Steroid hormone biosynthesis
+514,SULT2B1,Sulfur metabolism
+515,HSD17B6,Steroid hormone biosynthesis
+516,HSD17B6,Metabolic pathways
+517,CYP1A1,Steroid hormone biosynthesis
+518,CYP1A1,Metabolic pathways
+519,CYP1A1,Retinol metabolism
+520,CYP17A1,Steroid hormone biosynthesis
+521,CYP17A1,Metabolic pathways
+522,CYP11A1,Steroid hormone biosynthesis
+523,CYP11A1,Metabolic pathways
+524,CYP21A2,Steroid hormone biosynthesis
+525,CYP21A2,Metabolic pathways
+526,STS,Steroid hormone biosynthesis
+527,CYP19A1,Steroid hormone biosynthesis
+528,CYP19A1,Metabolic pathways
+529,HSD3B1,Steroid hormone biosynthesis
+530,HSD3B1,Metabolic pathways
+531,CYP11B1,Steroid hormone biosynthesis
+532,CYP11B1,Metabolic pathways
+533,CYP11B2,Steroid hormone biosynthesis
+534,CYP11B2,Metabolic pathways
+535,COMT,Steroid hormone biosynthesis
+536,COMT,Metabolic pathways
+537,COMT,Tyrosine metabolism
+538,HSD17B3,Steroid hormone biosynthesis
+539,HSD17B3,Metabolic pathways
+540,SULT1E1,Steroid hormone biosynthesis
+541,SULT1E1,Sulfur metabolism
+542,HSD11B2,Steroid hormone biosynthesis
+543,HSD11B2,Metabolic pathways
+544,SULT2A1,Steroid hormone biosynthesis
+545,CYP1B1,Steroid hormone biosynthesis
+546,SRD5A3,Steroid hormone biosynthesis
+547,CYP3A43,Caffeine metabolism
+548,CYP3A43,Metabolism of xenobiotics by cytochrome P450
+549,CYP3A43,Metabolic pathways
+550,CYP3A43,Drug metabolism - other enzymes
+551,CYP3A43,Linoleic acid metabolism
+552,CYP3A43,Steroid hormone biosynthesis
+553,CYP3A43,Retinol metabolism
+554,CYP3A43,Drug metabolism - cytochrome P450
+555,URAD,Metabolic pathways
+556,URAD,Purine metabolism
+557,IMPDH1,Metabolic pathways
+558,IMPDH1,Drug metabolism - other enzymes
+559,IMPDH1,Purine metabolism
+560,B7Z226,Purine metabolism
+561,E5KSL6,Metabolic pathways
+562,E5KSL6,Purine metabolism
+563,GMPR2,Purine metabolism
+564,PFAS,Metabolic pathways
+565,PFAS,Purine metabolism
+566,ADCY3,Purine metabolism
+567,ENTPD3,Purine metabolism
+568,ENTPD3,Pyrimidine metabolism
+569,ENTPD5,Purine metabolism
+570,ENTPD5,Pyrimidine metabolism
+571,PAPSS2,Selenocompound metabolism
+572,PAPSS2,Sulfur metabolism
+573,PAPSS2,Metabolic pathways
+574,PAPSS2,Purine metabolism
+575,BPNT1,Sulfur metabolism
+576,BPNT1,Metabolic pathways
+577,BPNT1,Purine metabolism
+578,PNP,Purine metabolism
+579,PNP,Metabolic pathways
+580,PNP,Nicotinate and nicotinamide metabolism
+581,PNP,Pyrimidine metabolism
+582,HPRT1,Metabolic pathways
+583,HPRT1,Drug metabolism - other enzymes
+584,HPRT1,Purine metabolism
+585,ADA,Metabolic pathways
+586,ADA,Purine metabolism
+587,APRT,Metabolic pathways
+588,APRT,Purine metabolism
+589,TYMP,Purine metabolism
+590,TYMP,Metabolic pathways
+591,TYMP,Drug metabolism - other enzymes
+592,TYMP,Pyrimidine metabolism
+593,GART,Metabolic pathways
+594,GART,One carbon pool by folate
+595,GART,Purine metabolism
+596,PAICS,Metabolic pathways
+597,PAICS,Purine metabolism
+598,ENPP1,Nicotinate and nicotinamide metabolism
+599,ENPP1,Riboflavin metabolism
+600,ENPP1,Starch and sucrose metabolism
+601,ENPP1,Pantothenate and CoA biosynthesis
+602,ENPP1,Metabolic pathways
+603,ENPP1,Purine metabolism
+604,AMPD1,Metabolic pathways
+605,AMPD1,Purine metabolism
+606,RRM1,Glutathione metabolism
+607,RRM1,Purine metabolism
+608,RRM1,Metabolic pathways
+609,RRM1,Pyrimidine metabolism
+610,AK4,Metabolic pathways
+611,AK4,Purine metabolism
+612,DCK,Purine metabolism
+613,DCK,Metabolic pathways
+614,DCK,Pyrimidine metabolism
+615,ADSS2,"Alanine, aspartate and glutamate metabolism"
+616,ADSS2,Metabolic pathways
+617,ADSS2,Purine metabolism
+618,ADSL,"Alanine, aspartate and glutamate metabolism"
+619,ADSL,Metabolic pathways
+620,ADSL,Purine metabolism
+621,ATIC,Metabolic pathways
+622,ATIC,One carbon pool by folate
+623,ATIC,Purine metabolism
+624,XDH,Caffeine metabolism
+625,XDH,Metabolic pathways
+626,XDH,Drug metabolism - other enzymes
+627,XDH,Purine metabolism
+628,FHIT,Purine metabolism
+629,GMPS,Metabolic pathways
+630,GMPS,Drug metabolism - other enzymes
+631,GMPS,Purine metabolism
+632,NUDT2,Purine metabolism
+633,NUDT2,Pyrimidine metabolism
+634,PAPOLA,Metabolic pathways
+635,PAPOLA,Purine metabolism
+636,ADK,Metabolic pathways
+637,ADK,Purine metabolism
+638,GUCY2D,Purine metabolism
+639,PPAT,"Alanine, aspartate and glutamate metabolism"
+640,PPAT,Metabolic pathways
+641,PPAT,Purine metabolism
+642,POLE,Purine metabolism
+643,POLE,Metabolic pathways
+644,POLE,Pyrimidine metabolism
+645,GUK1,Metabolic pathways
+646,GUK1,Purine metabolism
+647,DGUOK,Metabolic pathways
+648,DGUOK,Purine metabolism
+649,PRUNE1,Purine metabolism
+650,ALLC,Metabolic pathways
+651,ALLC,Purine metabolism
+652,NT5C,Purine metabolism
+653,NT5C,Metabolic pathways
+654,NT5C,Nicotinate and nicotinamide metabolism
+655,NT5C,Pyrimidine metabolism
+656,PNPT1,Purine metabolism
+657,PNPT1,Pyrimidine metabolism
+658,NUDT16,Purine metabolism
+659,NTPCR,Thiamine metabolism
+660,NTPCR,Metabolic pathways
+661,NTPCR,Purine metabolism
+662,ITPA,Purine metabolism
+663,ITPA,Metabolic pathways
+664,ITPA,Drug metabolism - other enzymes
+665,ITPA,Pyrimidine metabolism
+666,DKFZp566H033,Purine metabolism
+667,DKFZp566H033,Metabolic pathways
+668,DKFZp566H033,Pyrimidine metabolism
+669,NUDT5,Purine metabolism
+670,GDA,Metabolic pathways
+671,GDA,Purine metabolism
+672,POLR3K,Purine metabolism
+673,POLR3K,Metabolic pathways
+674,POLR3K,Pyrimidine metabolism
+675,ENTPD2,Purine metabolism
+676,ADPRM,Glycerophospholipid metabolism
+677,ADPRM,Purine metabolism
+678,NAT1,Caffeine metabolism
+679,NAT1,Metabolic pathways
+680,NAT1,Drug metabolism - other enzymes
+681,CYP1A2,Caffeine metabolism
+682,CYP1A2,Metabolism of xenobiotics by cytochrome P450
+683,CYP1A2,Metabolic pathways
+684,CYP1A2,Retinol metabolism
+685,CYP1A2,Drug metabolism - cytochrome P450
+686,CYP1A2,Tryptophan metabolism
+687,TXNRD2,Selenocompound metabolism
+688,TXNRD2,Pyrimidine metabolism
+689,UPP2,Metabolic pathways
+690,UPP2,Drug metabolism - other enzymes
+691,UPP2,Pyrimidine metabolism
+692,TYMS,Metabolic pathways
+693,TYMS,One carbon pool by folate
+694,TYMS,Pyrimidine metabolism
+695,UMPS,Metabolic pathways
+696,UMPS,Drug metabolism - other enzymes
+697,UMPS,Pyrimidine metabolism
+698,CTPS1,Metabolic pathways
+699,CTPS1,Pyrimidine metabolism
+700,DTYMK,Metabolic pathways
+701,DTYMK,Pyrimidine metabolism
+702,CAD,"Alanine, aspartate and glutamate metabolism"
+703,CAD,Metabolic pathways
+704,CAD,Pyrimidine metabolism
+705,CMPK1,Metabolic pathways
+706,CMPK1,Pyrimidine metabolism
+707,CDA,Metabolic pathways
+708,CDA,Drug metabolism - other enzymes
+709,CDA,Pyrimidine metabolism
+710,DCTD,Metabolic pathways
+711,DCTD,Pyrimidine metabolism
+712,DUT,Metabolic pathways
+713,DUT,Pyrimidine metabolism
+714,DHODH,Metabolic pathways
+715,DHODH,Pyrimidine metabolism
+716,DPYD,beta-Alanine metabolism
+717,DPYD,Pantothenate and CoA biosynthesis
+718,DPYD,Metabolic pathways
+719,DPYD,Drug metabolism - other enzymes
+720,DPYD,Pyrimidine metabolism
+721,DPYS,beta-Alanine metabolism
+722,DPYS,Pantothenate and CoA biosynthesis
+723,DPYS,Metabolic pathways
+724,DPYS,Drug metabolism - other enzymes
+725,DPYS,Pyrimidine metabolism
+726,TUT4,Metabolic pathways
+727,TUT4,Pyrimidine metabolism
+728,UPRT,Metabolic pathways
+729,UPRT,Pyrimidine metabolism
+730,UCK1,Metabolic pathways
+731,UCK1,Drug metabolism - other enzymes
+732,UCK1,Pyrimidine metabolism
+733,UPB1,beta-Alanine metabolism
+734,UPB1,Pantothenate and CoA biosynthesis
+735,UPB1,Metabolic pathways
+736,UPB1,Drug metabolism - other enzymes
+737,UPB1,Pyrimidine metabolism
+738,AK3,Pyrimidine metabolism
+739,GLS,D-Glutamine and D-glutamate metabolism
+740,GLS,Arginine and proline metabolism
+741,GLS,Nitrogen metabolism
+742,GLS,"Alanine, aspartate and glutamate metabolism"
+743,GLS,Metabolic pathways
+744,ASS1,"Alanine, aspartate and glutamate metabolism"
+745,ASS1,Metabolic pathways
+746,ASS1,Arginine and proline metabolism
+747,ASL,"Alanine, aspartate and glutamate metabolism"
+748,ASL,Metabolic pathways
+749,ASL,Arginine and proline metabolism
+750,ASNS,Nitrogen metabolism
+751,ASNS,"Alanine, aspartate and glutamate metabolism"
+752,ASNS,Metabolic pathways
+753,GLUL,Nitrogen metabolism
+754,GLUL,"Alanine, aspartate and glutamate metabolism"
+755,GLUL,Metabolic pathways
+756,GLUL,Arginine and proline metabolism
+757,AGXT,"Alanine, aspartate and glutamate metabolism"
+758,AGXT,Metabolic pathways
+759,AGXT,"Glycine, serine and threonine metabolism"
+760,ALDH4A1,"Alanine, aspartate and glutamate metabolism"
+761,ALDH4A1,Metabolic pathways
+762,ALDH4A1,Arginine and proline metabolism
+763,CPS1,Nitrogen metabolism
+764,CPS1,"Alanine, aspartate and glutamate metabolism"
+765,CPS1,Metabolic pathways
+766,CPS1,Arginine and proline metabolism
+767,ASPA,"Alanine, aspartate and glutamate metabolism"
+768,ASPA,Histidine metabolism
+769,GLUD2,D-Glutamine and D-glutamate metabolism
+770,GLUD2,Arginine and proline metabolism
+771,GLUD2,Nitrogen metabolism
+772,GLUD2,"Alanine, aspartate and glutamate metabolism"
+773,GLUD2,Metabolic pathways
+774,ALDH5A1,Butanoate metabolism
+775,ALDH5A1,"Alanine, aspartate and glutamate metabolism"
+776,ALDH5A1,Metabolic pathways
+777,ABAT,beta-Alanine metabolism
+778,ABAT,Butanoate metabolism
+779,ABAT,Propanoate metabolism
+780,ABAT,"Alanine, aspartate and glutamate metabolism"
+781,ABAT,Metabolic pathways
+782,ABAT,"Valine, leucine and isoleucine degradation"
+783,GFPT1,Amino sugar and nucleotide sugar metabolism
+784,GFPT1,"Alanine, aspartate and glutamate metabolism"
+785,GFPT1,Metabolic pathways
+786,GAD2,Butanoate metabolism
+787,GAD2,beta-Alanine metabolism
+788,GAD2,Taurine and hypotaurine metabolism
+789,GAD2,"Alanine, aspartate and glutamate metabolism"
+790,GAD2,Metabolic pathways
+791,GPT2,"Alanine, aspartate and glutamate metabolism"
+792,GPT2,Metabolic pathways
+793,GNPDA2,Amino sugar and nucleotide sugar metabolism
+794,GNPDA2,"Alanine, aspartate and glutamate metabolism"
+795,GNPDA2,Metabolic pathways
+796,IL4I1,Tyrosine metabolism
+797,IL4I1,Metabolic pathways
+798,IL4I1,Tryptophan metabolism
+799,IL4I1,Cysteine and methionine metabolism
+800,IL4I1,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+801,IL4I1,Phenylalanine metabolism
+802,IL4I1,"Alanine, aspartate and glutamate metabolism"
+803,IL4I1,"Valine, leucine and isoleucine degradation"
+804,DDO,"Alanine, aspartate and glutamate metabolism"
+805,NIT2,"Alanine, aspartate and glutamate metabolism"
+806,A8K596,Metabolic pathways
+807,A8K596,"Glycine, serine and threonine metabolism"
+808,PHGDH,Metabolic pathways
+809,PHGDH,"Glycine, serine and threonine metabolism"
+810,GCAT,"Glycine, serine and threonine metabolism"
+811,DAO,Metabolic pathways
+812,DAO,"Glycine, serine and threonine metabolism"
+813,DAO,Arginine and proline metabolism
+814,DAO,D-Arginine and D-ornithine metabolism
+815,SDS,Metabolic pathways
+816,SDS,Cysteine and methionine metabolism
+817,SDS,"Glycine, serine and threonine metabolism"
+818,GLDC,Nitrogen metabolism
+819,GLDC,Metabolic pathways
+820,GLDC,"Glycine, serine and threonine metabolism"
+821,CTH,"Glycine, serine and threonine metabolism"
+822,CTH,Selenocompound metabolism
+823,CTH,Nitrogen metabolism
+824,CTH,Metabolic pathways
+825,CTH,Cysteine and methionine metabolism
+826,SHMT1,Metabolic pathways
+827,SHMT1,One carbon pool by folate
+828,SHMT1,Cyanoamino acid metabolism
+829,SHMT1,"Glycine, serine and threonine metabolism"
+830,CBS,Metabolic pathways
+831,CBS,Cysteine and methionine metabolism
+832,CBS,"Glycine, serine and threonine metabolism"
+833,AMT,Nitrogen metabolism
+834,AMT,Metabolic pathways
+835,AMT,"Glycine, serine and threonine metabolism"
+836,AMT,One carbon pool by folate
+837,ALDH7A1,Lysine degradation
+838,ALDH7A1,Metabolic pathways
+839,ALDH7A1,"Glycine, serine and threonine metabolism"
+840,ALDH7A1,Lysine biosynthesis
+841,GATM,Metabolic pathways
+842,GATM,"Glycine, serine and threonine metabolism"
+843,GATM,Arginine and proline metabolism
+844,PSPH,Metabolic pathways
+845,PSPH,"Glycine, serine and threonine metabolism"
+846,GAMT,Metabolic pathways
+847,GAMT,"Glycine, serine and threonine metabolism"
+848,GAMT,Arginine and proline metabolism
+849,GNMT,"Glycine, serine and threonine metabolism"
+850,AOC3,beta-Alanine metabolism
+851,AOC3,Tyrosine metabolism
+852,AOC3,"Glycine, serine and threonine metabolism"
+853,AOC3,Phenylalanine metabolism
+854,AOC3,Metabolic pathways
+855,MAOA,Tyrosine metabolism
+856,MAOA,Metabolic pathways
+857,MAOA,Tryptophan metabolism
+858,MAOA,Histidine metabolism
+859,MAOA,"Glycine, serine and threonine metabolism"
+860,MAOA,Arginine and proline metabolism
+861,MAOA,Phenylalanine metabolism
+862,MAOA,Drug metabolism - cytochrome P450
+863,ALAS1,Porphyrin and chlorophyll metabolism
+864,ALAS1,Metabolic pathways
+865,ALAS1,"Glycine, serine and threonine metabolism"
+866,GLYCTK,Glyoxylate and dicarboxylate metabolism
+867,GLYCTK,Metabolic pathways
+868,GLYCTK,Glycerolipid metabolism
+869,GLYCTK,"Glycine, serine and threonine metabolism"
+870,CHDH,"Glycine, serine and threonine metabolism"
+871,BHMT,Metabolic pathways
+872,BHMT,Cysteine and methionine metabolism
+873,BHMT,"Glycine, serine and threonine metabolism"
+874,BHMT,One carbon pool by folate
+875,SRR,"Glycine, serine and threonine metabolism"
+876,PIPOX,Lysine degradation
+877,PIPOX,Metabolic pathways
+878,PIPOX,"Glycine, serine and threonine metabolism"
+879,DMGDH,Metabolic pathways
+880,DMGDH,"Glycine, serine and threonine metabolism"
+881,SARDH,Metabolic pathways
+882,SARDH,"Glycine, serine and threonine metabolism"
+883,PSAT1,Metabolic pathways
+884,PSAT1,Vitamin B6 metabolism
+885,PSAT1,"Glycine, serine and threonine metabolism"
+886,B4DE40,beta-Alanine metabolism
+887,B4DE40,Arginine and proline metabolism
+888,B4DE40,Glutathione metabolism
+889,B4DE40,Metabolic pathways
+890,B4DE40,Cysteine and methionine metabolism
+891,AHCYL1,Metabolic pathways
+892,AHCYL1,Cysteine and methionine metabolism
+893,AMD1,Metabolic pathways
+894,AMD1,Cysteine and methionine metabolism
+895,AMD1,Arginine and proline metabolism
+896,SRM,beta-Alanine metabolism
+897,SRM,Arginine and proline metabolism
+898,SRM,Glutathione metabolism
+899,SRM,Metabolic pathways
+900,SRM,Cysteine and methionine metabolism
+901,MPST,Metabolic pathways
+902,MPST,Cysteine and methionine metabolism
+903,SMS,beta-Alanine metabolism
+904,SMS,Arginine and proline metabolism
+905,SMS,Glutathione metabolism
+906,SMS,Metabolic pathways
+907,SMS,Cysteine and methionine metabolism
+908,MTAP,Metabolic pathways
+909,MTAP,Cysteine and methionine metabolism
+910,CDO1,Taurine and hypotaurine metabolism
+911,CDO1,Metabolic pathways
+912,CDO1,Cysteine and methionine metabolism
+913,APIP,Metabolic pathways
+914,APIP,Cysteine and methionine metabolism
+915,MTR,Selenocompound metabolism
+916,MTR,Metabolic pathways
+917,MTR,Cysteine and methionine metabolism
+918,MTR,One carbon pool by folate
+919,MRI1,Metabolic pathways
+920,MRI1,Cysteine and methionine metabolism
+921,ADI1,Metabolic pathways
+922,ADI1,Cysteine and methionine metabolism
+923,MAT2B,Metabolic pathways
+924,MAT2B,Cysteine and methionine metabolism
+925,ENOPH1,Cysteine and methionine metabolism
+926,DNMT3L,Metabolic pathways
+927,DNMT3L,Cysteine and methionine metabolism
+928,BCAT2,Pantothenate and CoA biosynthesis
+929,BCAT2,Metabolic pathways
+930,BCAT2,"Valine, leucine and isoleucine biosynthesis"
+931,BCAT2,"Valine, leucine and isoleucine degradation"
+932,PCCA,Glyoxylate and dicarboxylate metabolism
+933,PCCA,Metabolic pathways
+934,PCCA,"Valine, leucine and isoleucine degradation"
+935,PCCA,Propanoate metabolism
+936,DBT,Metabolic pathways
+937,DBT,"Valine, leucine and isoleucine degradation"
+938,MMUT,Glyoxylate and dicarboxylate metabolism
+939,MMUT,Metabolic pathways
+940,MMUT,"Valine, leucine and isoleucine degradation"
+941,MMUT,Propanoate metabolism
+942,IVD,Metabolic pathways
+943,IVD,"Valine, leucine and isoleucine degradation"
+944,HIBADH,Metabolic pathways
+945,HIBADH,"Valine, leucine and isoleucine degradation"
+946,ALDH6A1,Metabolic pathways
+947,ALDH6A1,"Valine, leucine and isoleucine degradation"
+948,ALDH6A1,Inositol phosphate metabolism
+949,ALDH6A1,Propanoate metabolism
+950,AOX1,Tyrosine metabolism
+951,AOX1,Nicotinate and nicotinamide metabolism
+952,AOX1,"Valine, leucine and isoleucine degradation"
+953,AOX1,Metabolic pathways
+954,AOX1,Vitamin B6 metabolism
+955,AOX1,Drug metabolism - cytochrome P450
+956,AOX1,Tryptophan metabolism
+957,AUH,Metabolic pathways
+958,AUH,"Valine, leucine and isoleucine degradation"
+959,Q59EI3,Metabolic pathways
+960,Q59EI3,"Valine, leucine and isoleucine degradation"
+961,HIBCH,beta-Alanine metabolism
+962,HIBCH,Metabolic pathways
+963,HIBCH,"Valine, leucine and isoleucine degradation"
+964,HIBCH,Propanoate metabolism
+965,MCEE,Glyoxylate and dicarboxylate metabolism
+966,MCEE,Metabolic pathways
+967,MCEE,"Valine, leucine and isoleucine degradation"
+968,MCEE,Propanoate metabolism
+969,HSD17B10,Metabolic pathways
+970,HSD17B10,"Valine, leucine and isoleucine degradation"
+971,MCCC2,Metabolic pathways
+972,MCCC2,"Valine, leucine and isoleucine degradation"
+973,ACAD8,Metabolic pathways
+974,ACAD8,"Valine, leucine and isoleucine degradation"
+975,VARS1,"Valine, leucine and isoleucine biosynthesis"
+976,VARS1,Aminoacyl-tRNA biosynthesis
+977,LARS2,"Valine, leucine and isoleucine biosynthesis"
+978,LARS2,Aminoacyl-tRNA biosynthesis
+979,IARS1,"Valine, leucine and isoleucine biosynthesis"
+980,IARS1,Aminoacyl-tRNA biosynthesis
+981,AADAT,Lysine degradation
+982,AADAT,Metabolic pathways
+983,AADAT,Lysine biosynthesis
+984,AASS,Lysine degradation
+985,AASS,Metabolic pathways
+986,AASS,Lysine biosynthesis
+987,PLOD3,Lysine degradation
+988,PLOD3,Other types of O-glycan biosynthesis
+989,BBOX1,Lysine degradation
+990,ALDH9A1,Lysine degradation
+991,KMT5B,Lysine degradation
+992,TMLHE,Lysine degradation
+993,DKFZp564O1822,Lysine degradation
+994,CARNS1,beta-Alanine metabolism
+995,CARNS1,Histidine metabolism
+996,CARNS1,Arginine and proline metabolism
+997,PRODH,Metabolic pathways
+998,PRODH,Arginine and proline metabolism
+999,OTC,Metabolic pathways
+1000,OTC,Arginine and proline metabolism
+1001,OAT,Metabolic pathways
+1002,OAT,Arginine and proline metabolism
+1003,ARG1,Metabolic pathways
+1004,ARG1,Arginine and proline metabolism
+1005,ODC1,Glutathione metabolism
+1006,ODC1,Metabolic pathways
+1007,ODC1,Arginine and proline metabolism
+1008,CKMT2,Metabolic pathways
+1009,CKMT2,Arginine and proline metabolism
+1010,AOC1,beta-Alanine metabolism
+1011,AOC1,Tryptophan metabolism
+1012,AOC1,Histidine metabolism
+1013,AOC1,Arginine and proline metabolism
+1014,LAP3,Glutathione metabolism
+1015,LAP3,Metabolic pathways
+1016,LAP3,Arginine and proline metabolism
+1017,NOS3,Metabolic pathways
+1018,NOS3,Arginine and proline metabolism
+1019,ALDH18A1,Metabolic pathways
+1020,ALDH18A1,Arginine and proline metabolism
+1021,ACY1,Metabolic pathways
+1022,ACY1,Arginine and proline metabolism
+1023,P4HA2,Metabolic pathways
+1024,P4HA2,Arginine and proline metabolism
+1025,PYCR3,Metabolic pathways
+1026,PYCR3,Arginine and proline metabolism
+1027,NAGS,Metabolic pathways
+1028,NAGS,Arginine and proline metabolism
+1029,AZIN2,Metabolic pathways
+1030,AZIN2,Arginine and proline metabolism
+1031,SAT2,Metabolic pathways
+1032,SAT2,Arginine and proline metabolism
+1033,AGMAT,Metabolic pathways
+1034,AGMAT,Arginine and proline metabolism
+1035,PRODH2,Metabolic pathways
+1036,PRODH2,Arginine and proline metabolism
+1037,FTCD,Metabolic pathways
+1038,FTCD,Histidine metabolism
+1039,FTCD,One carbon pool by folate
+1040,HDC,Metabolic pathways
+1041,HDC,Histidine metabolism
+1042,DDC,Tyrosine metabolism
+1043,DDC,Phenylalanine metabolism
+1044,DDC,Metabolic pathways
+1045,DDC,Histidine metabolism
+1046,DDC,Tryptophan metabolism
+1047,HAL,Nitrogen metabolism
+1048,HAL,Metabolic pathways
+1049,HAL,Histidine metabolism
+1050,HNMT,Histidine metabolism
+1051,METTL6,Histidine metabolism
+1052,METTL6,Tyrosine metabolism
+1053,CNDP1,beta-Alanine metabolism
+1054,CNDP1,Metabolic pathways
+1055,CNDP1,Histidine metabolism
+1056,CNDP2,Metabolic pathways
+1057,CNDP2,Histidine metabolism
+1058,UROC1,Metabolic pathways
+1059,UROC1,Histidine metabolism
+1060,AMDHD1,Metabolic pathways
+1061,AMDHD1,Histidine metabolism
+1062,GSTZ1,Metabolic pathways
+1063,GSTZ1,Tyrosine metabolism
+1064,TH,Metabolic pathways
+1065,TH,Tyrosine metabolism
+1066,TPO,Metabolic pathways
+1067,TPO,Tyrosine metabolism
+1068,DBH,Metabolic pathways
+1069,DBH,Tyrosine metabolism
+1070,PNMT,Metabolic pathways
+1071,PNMT,Tyrosine metabolism
+1072,MIF,Phenylalanine metabolism
+1073,MIF,Tyrosine metabolism
+1074,TYR,Metabolic pathways
+1075,TYR,Tyrosine metabolism
+1076,TYR,Riboflavin metabolism
+1077,FAH,Metabolic pathways
+1078,FAH,Tyrosine metabolism
+1079,TYRP1,Metabolic pathways
+1080,TYRP1,Tyrosine metabolism
+1081,DCT,Metabolic pathways
+1082,DCT,Tyrosine metabolism
+1083,HGD,Metabolic pathways
+1084,HGD,Tyrosine metabolism
+1085,PAH,Phenylalanine metabolism
+1086,PAH,Metabolic pathways
+1087,PAH,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1088,PRDX6,Phenylalanine metabolism
+1089,PRDX6,Metabolic pathways
+1090,KMO,Metabolic pathways
+1091,KMO,Tryptophan metabolism
+1092,INMT,Selenocompound metabolism
+1093,INMT,Tryptophan metabolism
+1094,CAT,Tryptophan metabolism
+1095,ASMT,Metabolic pathways
+1096,ASMT,Tryptophan metabolism
+1097,HAAO,Metabolic pathways
+1098,HAAO,Tryptophan metabolism
+1099,TDO2,Metabolic pathways
+1100,TDO2,Tryptophan metabolism
+1101,TPH2,Metabolic pathways
+1102,TPH2,Tryptophan metabolism
+1103,AANAT,Metabolic pathways
+1104,AANAT,Tryptophan metabolism
+1105,KYNU,Metabolic pathways
+1106,KYNU,Tryptophan metabolism
+1107,KYAT1,Selenocompound metabolism
+1108,KYAT1,Metabolic pathways
+1109,KYAT1,Tryptophan metabolism
+1110,AFMID,Glyoxylate and dicarboxylate metabolism
+1111,AFMID,Metabolic pathways
+1112,AFMID,Tryptophan metabolism
+1113,IDO2,Metabolic pathways
+1114,IDO2,Tryptophan metabolism
+1115,ACMSD,Metabolic pathways
+1116,ACMSD,Tryptophan metabolism
+1117,WARS2,Aminoacyl-tRNA biosynthesis
+1118,WARS2,Tryptophan metabolism
+1119,MLYCD,beta-Alanine metabolism
+1120,MLYCD,Metabolic pathways
+1121,MLYCD,Propanoate metabolism
+1122,GGT5,Taurine and hypotaurine metabolism
+1123,GGT5,Metabolic pathways
+1124,GGT5,Arachidonic acid metabolism
+1125,GGT5,Glutathione metabolism
+1126,GGT5,Cyanoamino acid metabolism
+1127,CSAD,Taurine and hypotaurine metabolism
+1128,CSAD,Metabolic pathways
+1129,ADO,Taurine and hypotaurine metabolism
+1130,ADO,Metabolic pathways
+1131,SEPHS1,Selenocompound metabolism
+1132,SEPHS1,Metabolic pathways
+1133,MARS1,Selenocompound metabolism
+1134,MARS1,Aminoacyl-tRNA biosynthesis
+1135,KYAT3,Selenocompound metabolism
+1136,PSTK,Selenocompound metabolism
+1137,PSTK,Aminoacyl-tRNA biosynthesis
+1138,SCLY,Selenocompound metabolism
+1139,SCLY,Metabolic pathways
+1140,SEPSECS,Selenocompound metabolism
+1141,SEPSECS,Aminoacyl-tRNA biosynthesis
+1142,GBA3,Starch and sucrose metabolism
+1143,GBA3,Cyanoamino acid metabolism
+1144,OPLAH,Glutathione metabolism
+1145,GGCT,Glutathione metabolism
+1146,TXNDC12,Glutathione metabolism
+1147,GSR,Glutathione metabolism
+1148,ANPEP,Glutathione metabolism
+1149,ANPEP,Metabolic pathways
+1150,GPX4,Glutathione metabolism
+1151,GCLM,Glutathione metabolism
+1152,GCLM,Metabolic pathways
+1153,GSS,Glutathione metabolism
+1154,GSS,Metabolic pathways
+1155,GPX6,Glutathione metabolism
+1156,GPX6,Arachidonic acid metabolism
+1157,GSTM2,Glutathione metabolism
+1158,GSTM2,Metabolism of xenobiotics by cytochrome P450
+1159,GSTM2,Drug metabolism - cytochrome P450
+1160,Q59E93,Glutathione metabolism
+1161,Q59E93,Metabolic pathways
+1162,TREH,Starch and sucrose metabolism
+1163,MGAM,Starch and sucrose metabolism
+1164,MGAM,Metabolic pathways
+1165,NUDT14,Starch and sucrose metabolism
+1166,PYGM,Starch and sucrose metabolism
+1167,AGL,Starch and sucrose metabolism
+1168,AGL,Metabolic pathways
+1169,GYS2,Starch and sucrose metabolism
+1170,GBE1,Starch and sucrose metabolism
+1171,GBE1,Metabolic pathways
+1172,AMY1A,Starch and sucrose metabolism
+1173,AMY1A,Metabolic pathways
+1174,PGM2L1,Starch and sucrose metabolism
+1175,UXS1,Starch and sucrose metabolism
+1176,UXS1,Amino sugar and nucleotide sugar metabolism
+1177,UXS1,Metabolic pathways
+1178,B4GALT3,N-Glycan biosynthesis
+1179,B4GALT3,Metabolic pathways
+1180,B4GALT3,Other types of O-glycan biosynthesis
+1181,B4GALT3,Glycosphingolipid biosynthesis - lacto and neolacto series
+1182,DPM1,N-Glycan biosynthesis
+1183,DPM1,Metabolic pathways
+1184,DPM2,N-Glycan biosynthesis
+1185,DPM2,Metabolic pathways
+1186,DPM2,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1187,ST6GAL1,N-Glycan biosynthesis
+1188,ST6GAL1,Metabolic pathways
+1189,ST6GAL1,Other types of O-glycan biosynthesis
+1190,MGAT1,N-Glycan biosynthesis
+1191,MGAT1,Metabolic pathways
+1192,MAN2A2,N-Glycan biosynthesis
+1193,MAN2A2,Metabolic pathways
+1194,DAD1,N-Glycan biosynthesis
+1195,DAD1,Metabolic pathways
+1196,MGAT3,N-Glycan biosynthesis
+1197,MGAT3,Metabolic pathways
+1198,MGAT5,N-Glycan biosynthesis
+1199,MGAT5,Metabolic pathways
+1200,MGAT2,N-Glycan biosynthesis
+1201,MGAT2,Metabolic pathways
+1202,MOGS,N-Glycan biosynthesis
+1203,MOGS,Metabolic pathways
+1204,GANAB,N-Glycan biosynthesis
+1205,GANAB,Metabolic pathways
+1206,ALG11,N-Glycan biosynthesis
+1207,ALG11,Metabolic pathways
+1208,ALG10,N-Glycan biosynthesis
+1209,ALG10,Metabolic pathways
+1210,DOLPP1,N-Glycan biosynthesis
+1211,STT3B,N-Glycan biosynthesis
+1212,STT3B,Metabolic pathways
+1213,ALG3,N-Glycan biosynthesis
+1214,ALG3,Metabolic pathways
+1215,ALG14,N-Glycan biosynthesis
+1216,ALG14,Metabolic pathways
+1217,ALG1,N-Glycan biosynthesis
+1218,ALG1,Metabolic pathways
+1219,ALG12,N-Glycan biosynthesis
+1220,ALG12,Metabolic pathways
+1221,ALG8,N-Glycan biosynthesis
+1222,ALG8,Metabolic pathways
+1223,FUT8,N-Glycan biosynthesis
+1224,FUT8,Metabolic pathways
+1225,DPAGT1,N-Glycan biosynthesis
+1226,DPAGT1,Metabolic pathways
+1227,ALG2,N-Glycan biosynthesis
+1228,ALG2,Metabolic pathways
+1229,ALG9,N-Glycan biosynthesis
+1230,ALG9,Metabolic pathways
+1231,ALG13,N-Glycan biosynthesis
+1232,ALG13,Metabolic pathways
+1233,DPM3,N-Glycan biosynthesis
+1234,DPM3,Metabolic pathways
+1235,MGAT4C,N-Glycan biosynthesis
+1236,MGAT4C,Metabolic pathways
+1237,MAN1B1,N-Glycan biosynthesis
+1238,MAN1B1,Metabolic pathways
+1239,DOLK,N-Glycan biosynthesis
+1240,DOLK,Metabolic pathways
+1241,MGAT4B,N-Glycan biosynthesis
+1242,MGAT4B,Metabolic pathways
+1243,ALG6,N-Glycan biosynthesis
+1244,ALG6,Metabolic pathways
+1245,ALG5,N-Glycan biosynthesis
+1246,ALG5,Metabolic pathways
+1247,B4GALT5,Mucin type O-Glycan biosynthesis
+1248,GCNT3,Mucin type O-Glycan biosynthesis
+1249,GCNT3,Metabolic pathways
+1250,GCNT1,Mucin type O-Glycan biosynthesis
+1251,GCNT1,Metabolic pathways
+1252,ST3GAL1,Glycosphingolipid biosynthesis - globo series
+1253,ST3GAL1,Glycosphingolipid biosynthesis - ganglio series
+1254,ST3GAL1,Metabolic pathways
+1255,ST3GAL1,Mucin type O-Glycan biosynthesis
+1256,B3GNT6,Mucin type O-Glycan biosynthesis
+1257,B3GNT6,Metabolic pathways
+1258,GALNT4,Mucin type O-Glycan biosynthesis
+1259,GALNT4,Metabolic pathways
+1260,C1GALT1,Mucin type O-Glycan biosynthesis
+1261,C1GALT1,Metabolic pathways
+1262,ST6GALNAC1,Mucin type O-Glycan biosynthesis
+1263,ST6GALNAC1,Metabolic pathways
+1264,GCNT4,Mucin type O-Glycan biosynthesis
+1265,GCNT4,Metabolic pathways
+1266,OGT,Other types of O-glycan biosynthesis
+1267,MGAT5B,Other types of O-glycan biosynthesis
+1268,GXYLT1,Other types of O-glycan biosynthesis
+1269,B3GLCT,Other types of O-glycan biosynthesis
+1270,POGLUT1,Other types of O-glycan biosynthesis
+1271,LFNG,Other types of O-glycan biosynthesis
+1272,POMGNT1,Other types of O-glycan biosynthesis
+1273,POFUT1,Other types of O-glycan biosynthesis
+1274,POMT1,Other types of O-glycan biosynthesis
+1275,PGM3,Amino sugar and nucleotide sugar metabolism
+1276,HEXA,Glycosphingolipid biosynthesis - globo series
+1277,HEXA,Glycosphingolipid biosynthesis - ganglio series
+1278,HEXA,Glycosaminoglycan degradation
+1279,HEXA,Amino sugar and nucleotide sugar metabolism
+1280,HEXA,Metabolic pathways
+1281,RENBP,Amino sugar and nucleotide sugar metabolism
+1282,UAP1,Amino sugar and nucleotide sugar metabolism
+1283,UAP1,Metabolic pathways
+1284,Q1M0P3,Amino sugar and nucleotide sugar metabolism
+1285,CMAS,Amino sugar and nucleotide sugar metabolism
+1286,CMAS,Metabolic pathways
+1287,NANP,Amino sugar and nucleotide sugar metabolism
+1288,NANP,Metabolic pathways
+1289,GNPNAT1,Amino sugar and nucleotide sugar metabolism
+1290,NPL,Amino sugar and nucleotide sugar metabolism
+1291,NANS,Amino sugar and nucleotide sugar metabolism
+1292,NANS,Metabolic pathways
+1293,CYB5R1,Amino sugar and nucleotide sugar metabolism
+1294,NAGK,Amino sugar and nucleotide sugar metabolism
+1295,GNE,Amino sugar and nucleotide sugar metabolism
+1296,GNE,Metabolic pathways
+1297,AMDHD2,Amino sugar and nucleotide sugar metabolism
+1298,GNS,Metabolic pathways
+1299,GNS,Glycosaminoglycan degradation
+1300,ARSB,Metabolic pathways
+1301,ARSB,Glycosaminoglycan degradation
+1302,IDS,Metabolic pathways
+1303,IDS,Glycosaminoglycan degradation
+1304,GALNS,Metabolic pathways
+1305,GALNS,Glycosaminoglycan degradation
+1306,IDUA,Metabolic pathways
+1307,IDUA,Glycosaminoglycan degradation
+1308,SGSH,Metabolic pathways
+1309,SGSH,Glycosaminoglycan degradation
+1310,NAGLU,Metabolic pathways
+1311,NAGLU,Glycosaminoglycan degradation
+1312,HYAL1,Metabolic pathways
+1313,HYAL1,Glycosaminoglycan degradation
+1314,HPSE2,Metabolic pathways
+1315,HPSE2,Glycosaminoglycan degradation
+1316,HGSNAT,Metabolic pathways
+1317,HGSNAT,Glycosaminoglycan degradation
+1318,HPSE,Metabolic pathways
+1319,HPSE,Glycosaminoglycan degradation
+1320,XYLT2,Glycosaminoglycan biosynthesis - heparan sulfate
+1321,XYLT2,Metabolic pathways
+1322,XYLT2,Glycosaminoglycan biosynthesis - chondroitin sulfate
+1323,CHSY1,Metabolic pathways
+1324,CHSY1,Glycosaminoglycan biosynthesis - chondroitin sulfate
+1325,CSGALNACT2,Metabolic pathways
+1326,CSGALNACT2,Glycosaminoglycan biosynthesis - chondroitin sulfate
+1327,B3GALT6,Glycosaminoglycan biosynthesis - heparan sulfate
+1328,B3GALT6,Metabolic pathways
+1329,B3GALT6,Glycosaminoglycan biosynthesis - chondroitin sulfate
+1330,B3GAT2,Glycosaminoglycan biosynthesis - heparan sulfate
+1331,B3GAT2,Metabolic pathways
+1332,B3GAT2,Glycosaminoglycan biosynthesis - chondroitin sulfate
+1333,CHPF2,Metabolic pathways
+1334,CHPF2,Glycosaminoglycan biosynthesis - chondroitin sulfate
+1335,B4GALT7,Glycosaminoglycan biosynthesis - heparan sulfate
+1336,B4GALT7,Metabolic pathways
+1337,B4GALT7,Glycosaminoglycan biosynthesis - chondroitin sulfate
+1338,EXTL3,Glycosaminoglycan biosynthesis - heparan sulfate
+1339,EXTL3,Metabolic pathways
+1340,EXT1,Glycosaminoglycan biosynthesis - heparan sulfate
+1341,EXT1,Metabolic pathways
+1342,EXTL1,Glycosaminoglycan biosynthesis - heparan sulfate
+1343,EXTL1,Metabolic pathways
+1344,PLPP3,Ether lipid metabolism
+1345,PLPP3,Sphingolipid metabolism
+1346,PLPP3,Metabolic pathways
+1347,PLPP3,Glycerophospholipid metabolism
+1348,PLPP3,Glycerolipid metabolism
+1349,LPL,Glycerolipid metabolism
+1350,PNLIPRP2,Metabolic pathways
+1351,PNLIPRP2,Glycerolipid metabolism
+1352,GK2,Metabolic pathways
+1353,GK2,Glycerolipid metabolism
+1354,TKFC,Metabolic pathways
+1355,TKFC,Glycerolipid metabolism
+1356,GPAT3,Metabolic pathways
+1357,GPAT3,Glycerophospholipid metabolism
+1358,GPAT3,Glycerolipid metabolism
+1359,AGK,Metabolic pathways
+1360,AGK,Glycerolipid metabolism
+1361,MOGAT3,Metabolic pathways
+1362,MOGAT3,Glycerolipid metabolism
+1363,MGLL,Metabolic pathways
+1364,MGLL,Glycerolipid metabolism
+1365,AGPAT1,Metabolic pathways
+1366,AGPAT1,Glycerophospholipid metabolism
+1367,AGPAT1,Glycerolipid metabolism
+1368,PIK3CD,Inositol phosphate metabolism
+1369,B3KQV3,Inositol phosphate metabolism
+1370,PIK3C2G,Metabolic pathways
+1371,PIK3C2G,Inositol phosphate metabolism
+1372,IMPA2,Metabolic pathways
+1373,IMPA2,Inositol phosphate metabolism
+1374,CDIPT,Metabolic pathways
+1375,CDIPT,Glycerophospholipid metabolism
+1376,CDIPT,Inositol phosphate metabolism
+1377,PIP5K1B,Metabolic pathways
+1378,PIP5K1B,Inositol phosphate metabolism
+1379,SYNJ2,Metabolic pathways
+1380,SYNJ2,Inositol phosphate metabolism
+1381,INPP4B,Metabolic pathways
+1382,INPP4B,Inositol phosphate metabolism
+1383,ITPKB,Metabolic pathways
+1384,ITPKB,Inositol phosphate metabolism
+1385,INPP5B,Metabolic pathways
+1386,INPP5B,Inositol phosphate metabolism
+1387,INPP1,Metabolic pathways
+1388,INPP1,Inositol phosphate metabolism
+1389,PTEN,Inositol phosphate metabolism
+1390,ITPK1,Metabolic pathways
+1391,ITPK1,Inositol phosphate metabolism
+1392,INPP5J,Metabolic pathways
+1393,INPP5J,Inositol phosphate metabolism
+1394,PIK3C3,Metabolic pathways
+1395,PIK3C3,Inositol phosphate metabolism
+1396,IPMK,Inositol phosphate metabolism
+1397,IPPK,Metabolic pathways
+1398,IPPK,Inositol phosphate metabolism
+1399,ISYNA1,Metabolic pathways
+1400,ISYNA1,Inositol phosphate metabolism
+1401,PLCE1,Metabolic pathways
+1402,PLCE1,Inositol phosphate metabolism
+1403,PI4KB,Metabolic pathways
+1404,PI4KB,Inositol phosphate metabolism
+1405,MINPP1,Inositol phosphate metabolism
+1406,PIKFYVE,Inositol phosphate metabolism
+1407,B2RAU6,Metabolic pathways
+1408,B2RAU6,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1409,PIGN,Metabolic pathways
+1410,PIGN,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1411,PIGA,Metabolic pathways
+1412,PIGA,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1413,PIGP,Metabolic pathways
+1414,PIGP,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1415,GPLD1,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1416,PIGF,Metabolic pathways
+1417,PIGF,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1418,PIGH,Metabolic pathways
+1419,PIGH,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1420,PIGY,Metabolic pathways
+1421,PIGY,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1422,PIGG,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1423,PIGW,Metabolic pathways
+1424,PIGW,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1425,PIGZ,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1426,PIGX,Metabolic pathways
+1427,PIGX,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1428,PIGO,Metabolic pathways
+1429,PIGO,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1430,PIGB,Metabolic pathways
+1431,PIGB,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1432,PIGC,Metabolic pathways
+1433,PIGC,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1434,PIGQ,Metabolic pathways
+1435,PIGQ,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1436,PIGM,Metabolic pathways
+1437,PIGM,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1438,PIGV,Metabolic pathways
+1439,PIGV,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1440,PIGL,Metabolic pathways
+1441,PIGL,Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1442,PLB1,Arachidonic acid metabolism
+1443,PLB1,alpha-Linolenic acid metabolism
+1444,PLB1,Ether lipid metabolism
+1445,PLB1,Metabolic pathways
+1446,PLB1,Glycerophospholipid metabolism
+1447,PLB1,Linoleic acid metabolism
+1448,B3KN25,Ether lipid metabolism
+1449,B3KN25,Metabolic pathways
+1450,B3KN25,Glycerophospholipid metabolism
+1451,GNPAT,Glycerophospholipid metabolism
+1452,LCAT,Glycerophospholipid metabolism
+1453,BCHE,Glycerophospholipid metabolism
+1454,ACHE,Glycerophospholipid metabolism
+1455,CHKA,Metabolic pathways
+1456,CHKA,Glycerophospholipid metabolism
+1457,GPD2,Glycerophospholipid metabolism
+1458,PTDSS1,Metabolic pathways
+1459,PTDSS1,Glycerophospholipid metabolism
+1460,PCYT1A,Metabolic pathways
+1461,PCYT1A,Glycerophospholipid metabolism
+1462,PLD1,Ether lipid metabolism
+1463,PLD1,Metabolic pathways
+1464,PLD1,Glycerophospholipid metabolism
+1465,TAFAZZIN,Glycerophospholipid metabolism
+1466,PGS1,Metabolic pathways
+1467,PGS1,Glycerophospholipid metabolism
+1468,CHAT,Glycerophospholipid metabolism
+1469,LPCAT3,Glycerophospholipid metabolism
+1470,MBOAT1,Glycerophospholipid metabolism
+1471,GPD1L,Glycerophospholipid metabolism
+1472,PHOSPHO1,Metabolic pathways
+1473,PHOSPHO1,Glycerophospholipid metabolism
+1474,LPGAT1,Glycerophospholipid metabolism
+1475,CDS1,Metabolic pathways
+1476,CDS1,Glycerophospholipid metabolism
+1477,MBOAT7,Glycerophospholipid metabolism
+1478,PCYT2,Metabolic pathways
+1479,PCYT2,Glycerophospholipid metabolism
+1480,PTDSS2,Metabolic pathways
+1481,PTDSS2,Glycerophospholipid metabolism
+1482,PEMT,Metabolic pathways
+1483,PEMT,Glycerophospholipid metabolism
+1484,PISD,Metabolic pathways
+1485,PISD,Glycerophospholipid metabolism
+1486,CRLS1,Metabolic pathways
+1487,CRLS1,Glycerophospholipid metabolism
+1488,AGPS,Ether lipid metabolism
+1489,AGPS,Metabolic pathways
+1490,PLA2G2A,Ether lipid metabolism
+1491,PLA2G2A,Metabolic pathways
+1492,ENPP2,Ether lipid metabolism
+1493,LPCAT4,Ether lipid metabolism
+1494,LPCAT4,Metabolic pathways
+1495,ENPP6,Ether lipid metabolism
+1496,LPCAT2,Ether lipid metabolism
+1497,LPCAT2,Metabolic pathways
+1498,PAFAH2,Ether lipid metabolism
+1499,PAFAH2,Metabolic pathways
+1500,PTGES,Metabolic pathways
+1501,PTGES,Arachidonic acid metabolism
+1502,ALOX15B,Metabolic pathways
+1503,ALOX15B,Arachidonic acid metabolism
+1504,HPGDS,Metabolic pathways
+1505,HPGDS,Arachidonic acid metabolism
+1506,ALOX12B,Metabolic pathways
+1507,ALOX12B,Arachidonic acid metabolism
+1508,CYP2E1,Metabolism of xenobiotics by cytochrome P450
+1509,CYP2E1,Metabolic pathways
+1510,CYP2E1,Arachidonic acid metabolism
+1511,CYP2E1,Drug metabolism - cytochrome P450
+1512,ALOX5,Metabolic pathways
+1513,ALOX5,Arachidonic acid metabolism
+1514,LTA4H,Metabolic pathways
+1515,LTA4H,Arachidonic acid metabolism
+1516,CBR1,Metabolic pathways
+1517,CBR1,Arachidonic acid metabolism
+1518,ALOX12,Metabolic pathways
+1519,ALOX12,Arachidonic acid metabolism
+1520,TBXAS1,Metabolic pathways
+1521,TBXAS1,Arachidonic acid metabolism
+1522,EPHX2,Metabolic pathways
+1523,EPHX2,Arachidonic acid metabolism
+1524,PTGS2,Metabolic pathways
+1525,PTGS2,Arachidonic acid metabolism
+1526,AKR1C3,Arachidonic acid metabolism
+1527,CYP2J2,Metabolic pathways
+1528,CYP2J2,Arachidonic acid metabolism
+1529,CYP4A11,Metabolic pathways
+1530,CYP4A11,Arachidonic acid metabolism
+1531,CYP4F3,Metabolic pathways
+1532,CYP4F3,Arachidonic acid metabolism
+1533,PTGIS,Metabolic pathways
+1534,PTGIS,Arachidonic acid metabolism
+1535,LTC4S,Metabolic pathways
+1536,LTC4S,Arachidonic acid metabolism
+1537,DKFZp686I24235,Metabolic pathways
+1538,DKFZp686I24235,Arachidonic acid metabolism
+1539,DKFZp686I24235,Drug metabolism - cytochrome P450
+1540,CYP2U1,Metabolic pathways
+1541,CYP2U1,Arachidonic acid metabolism
+1542,HEL-S-25,Metabolic pathways
+1543,HEL-S-25,Arachidonic acid metabolism
+1544,ALOX15,Metabolic pathways
+1545,ALOX15,Linoleic acid metabolism
+1546,FADS2,alpha-Linolenic acid metabolism
+1547,FADS2,Biosynthesis of unsaturated fatty acids
+1548,DEGS1,Sphingolipid metabolism
+1549,DEGS1,Metabolic pathways
+1550,SPTLC1,Sphingolipid metabolism
+1551,SPTLC1,Metabolic pathways
+1552,SGPL1,Sphingolipid metabolism
+1553,SGPL1,Metabolic pathways
+1554,GBA1,Sphingolipid metabolism
+1555,GBA1,Metabolic pathways
+1556,ARSA,Sphingolipid metabolism
+1557,SMPD1,Sphingolipid metabolism
+1558,SMPD1,Metabolic pathways
+1559,GALC,Sphingolipid metabolism
+1560,GALC,Metabolic pathways
+1561,KDSR,Sphingolipid metabolism
+1562,KDSR,Metabolic pathways
+1563,ASAH1,Sphingolipid metabolism
+1564,ASAH1,Metabolic pathways
+1565,UGCG,Sphingolipid metabolism
+1566,UGCG,Metabolic pathways
+1567,UGT8,Sphingolipid metabolism
+1568,UGT8,Metabolic pathways
+1569,NEU1,Sphingolipid metabolism
+1570,SGMS1,Sphingolipid metabolism
+1571,SGMS1,Metabolic pathways
+1572,SGMS2,Sphingolipid metabolism
+1573,SGMS2,Metabolic pathways
+1574,CERK,Sphingolipid metabolism
+1575,GAL3ST1,Sphingolipid metabolism
+1576,GAL3ST1,Metabolic pathways
+1577,SGPP1,Sphingolipid metabolism
+1578,SPHK2,Sphingolipid metabolism
+1579,SPHK2,Metabolic pathways
+1580,ACER3,Sphingolipid metabolism
+1581,B4GALT6,Sphingolipid metabolism
+1582,B4GALT6,Metabolic pathways
+1583,FUT2,Glycosphingolipid biosynthesis - globo series
+1584,FUT2,Metabolic pathways
+1585,FUT2,Glycosphingolipid biosynthesis - lacto and neolacto series
+1586,B4GAT1,Metabolic pathways
+1587,B4GAT1,Glycosphingolipid biosynthesis - lacto and neolacto series
+1588,B3GALT2,Metabolic pathways
+1589,B3GALT2,Glycosphingolipid biosynthesis - lacto and neolacto series
+1590,B4GALT4,Metabolic pathways
+1591,B4GALT4,Glycosphingolipid biosynthesis - lacto and neolacto series
+1592,B4GALT2,Metabolic pathways
+1593,B4GALT2,Glycosphingolipid biosynthesis - lacto and neolacto series
+1594,ABO,Metabolic pathways
+1595,ABO,Glycosphingolipid biosynthesis - lacto and neolacto series
+1596,FUT3,Metabolic pathways
+1597,FUT3,Glycosphingolipid biosynthesis - lacto and neolacto series
+1598,FUT4,Metabolic pathways
+1599,FUT4,Glycosphingolipid biosynthesis - lacto and neolacto series
+1600,FUT5,Metabolic pathways
+1601,FUT5,Glycosphingolipid biosynthesis - lacto and neolacto series
+1602,FUT7,Metabolic pathways
+1603,FUT7,Glycosphingolipid biosynthesis - lacto and neolacto series
+1604,ST3GAL3,Metabolic pathways
+1605,ST3GAL3,Glycosphingolipid biosynthesis - lacto and neolacto series
+1606,ST3GAL4,Metabolic pathways
+1607,ST3GAL4,Glycosphingolipid biosynthesis - lacto and neolacto series
+1608,GCNT2,Metabolic pathways
+1609,GCNT2,Glycosphingolipid biosynthesis - lacto and neolacto series
+1610,ST8SIA1,Glycosphingolipid biosynthesis - ganglio series
+1611,ST8SIA1,Metabolic pathways
+1612,ST8SIA1,Glycosphingolipid biosynthesis - lacto and neolacto series
+1613,B3GNT5,Metabolic pathways
+1614,B3GNT5,Glycosphingolipid biosynthesis - lacto and neolacto series
+1615,FUT9,Glycosphingolipid biosynthesis - globo series
+1616,FUT9,Metabolic pathways
+1617,FUT9,Glycosphingolipid biosynthesis - lacto and neolacto series
+1618,ST3GAL6,Metabolic pathways
+1619,ST3GAL6,Glycosphingolipid biosynthesis - lacto and neolacto series
+1620,B3GNT3,Metabolic pathways
+1621,B3GNT3,Glycosphingolipid biosynthesis - lacto and neolacto series
+1622,B3GALT5,Glycosphingolipid biosynthesis - globo series
+1623,B3GALT5,Metabolic pathways
+1624,B3GALT5,Glycosphingolipid biosynthesis - lacto and neolacto series
+1625,B3GALT1,Metabolic pathways
+1626,B3GALT1,Glycosphingolipid biosynthesis - lacto and neolacto series
+1627,B3GALNT1,Glycosphingolipid biosynthesis - globo series
+1628,B3GALNT1,Metabolic pathways
+1629,NAGA,Glycosphingolipid biosynthesis - globo series
+1630,GBGT1,Glycosphingolipid biosynthesis - globo series
+1631,GBGT1,Metabolic pathways
+1632,A4GALT,Glycosphingolipid biosynthesis - globo series
+1633,A4GALT,Metabolic pathways
+1634,ST6GALNAC4,Glycosphingolipid biosynthesis - ganglio series
+1635,ST6GALNAC4,Metabolic pathways
+1636,ST8SIA5,Glycosphingolipid biosynthesis - ganglio series
+1637,ST8SIA5,Metabolic pathways
+1638,B3GALT4,Glycosphingolipid biosynthesis - ganglio series
+1639,B3GALT4,Metabolic pathways
+1640,B4GALNT1,Glycosphingolipid biosynthesis - ganglio series
+1641,B4GALNT1,Metabolic pathways
+1642,ST6GALNAC3,Glycosphingolipid biosynthesis - ganglio series
+1643,ST6GALNAC3,Metabolic pathways
+1644,ST6GALNAC6,Glycosphingolipid biosynthesis - ganglio series
+1645,ST6GALNAC6,Metabolic pathways
+1646,ST6GALNAC5,Glycosphingolipid biosynthesis - ganglio series
+1647,ST6GALNAC5,Metabolic pathways
+1648,ST3GAL5,Glycosphingolipid biosynthesis - ganglio series
+1649,ST3GAL5,Metabolic pathways
+1650,ACYP2,Pyruvate metabolism
+1651,ME2,Metabolic pathways
+1652,ME2,Pyruvate metabolism
+1653,GLO1,Pyruvate metabolism
+1654,HAGH,Pyruvate metabolism
+1655,ME3,Metabolic pathways
+1656,ME3,Pyruvate metabolism
+1657,LDHD,Pyruvate metabolism
+1658,ACOT12,Pyruvate metabolism
+1659,GRHPR,Glyoxylate and dicarboxylate metabolism
+1660,GRHPR,Metabolic pathways
+1661,GRHPR,Pyruvate metabolism
+1662,PGP,Glyoxylate and dicarboxylate metabolism
+1663,PGP,Metabolic pathways
+1664,HYI,Glyoxylate and dicarboxylate metabolism
+1665,HYI,Metabolic pathways
+1666,HAO2,Glyoxylate and dicarboxylate metabolism
+1667,HAO2,Metabolic pathways
+1668,ACSS3,Metabolic pathways
+1669,ACSS3,Propanoate metabolism
+1670,ACSM5,Butanoate metabolism
+1671,ACSM5,Metabolic pathways
+1672,AACS,Butanoate metabolism
+1673,L2HGDH,Butanoate metabolism
+1674,B2RD24,Metabolic pathways
+1675,B2RD24,One carbon pool by folate
+1676,DHFR,Folate biosynthesis
+1677,DHFR,Metabolic pathways
+1678,DHFR,One carbon pool by folate
+1679,MTHFD1,Metabolic pathways
+1680,MTHFD1,One carbon pool by folate
+1681,MTHFR,Metabolic pathways
+1682,MTHFR,One carbon pool by folate
+1683,MTHFS,Metabolic pathways
+1684,MTHFS,One carbon pool by folate
+1685,ALDH1L2,One carbon pool by folate
+1686,MTFMT,Aminoacyl-tRNA biosynthesis
+1687,MTFMT,One carbon pool by folate
+1688,MTHFD2L,Metabolic pathways
+1689,MTHFD2L,One carbon pool by folate
+1690,THTPA,Metabolic pathways
+1691,THTPA,Thiamine metabolism
+1692,TPK1,Metabolic pathways
+1693,TPK1,Thiamine metabolism
+1694,NFS1,Thiamine metabolism
+1695,BLVRB,Porphyrin and chlorophyll metabolism
+1696,BLVRB,Riboflavin metabolism
+1697,FLAD1,Metabolic pathways
+1698,FLAD1,Riboflavin metabolism
+1699,RFK,Metabolic pathways
+1700,RFK,Riboflavin metabolism
+1701,ACP6,Riboflavin metabolism
+1702,PDXK,Metabolic pathways
+1703,PDXK,Vitamin B6 metabolism
+1704,PDXP,Metabolic pathways
+1705,PDXP,Vitamin B6 metabolism
+1706,PNPO,Metabolic pathways
+1707,PNPO,Vitamin B6 metabolism
+1708,NADK,Metabolic pathways
+1709,NADK,Nicotinate and nicotinamide metabolism
+1710,CD38,Metabolic pathways
+1711,CD38,Nicotinate and nicotinamide metabolism
+1712,NNMT,Metabolic pathways
+1713,NNMT,Nicotinate and nicotinamide metabolism
+1714,NAMPT,Nicotinate and nicotinamide metabolism
+1715,NNT,Metabolic pathways
+1716,NNT,Nicotinate and nicotinamide metabolism
+1717,QPRT,Metabolic pathways
+1718,QPRT,Nicotinate and nicotinamide metabolism
+1719,NADSYN1,Metabolic pathways
+1720,NADSYN1,Nicotinate and nicotinamide metabolism
+1721,FLJ13052,Metabolic pathways
+1722,FLJ13052,Nicotinate and nicotinamide metabolism
+1723,NAPRT,Metabolic pathways
+1724,NAPRT,Nicotinate and nicotinamide metabolism
+1725,NMNAT3,Metabolic pathways
+1726,NMNAT3,Nicotinate and nicotinamide metabolism
+1727,NUDT12,Nicotinate and nicotinamide metabolism
+1728,NMRK1,Nicotinate and nicotinamide metabolism
+1729,VNN2,Pantothenate and CoA biosynthesis
+1730,COASY,Pantothenate and CoA biosynthesis
+1731,COASY,Metabolic pathways
+1732,PANK2,Pantothenate and CoA biosynthesis
+1733,PANK2,Metabolic pathways
+1734,PPCDC,Pantothenate and CoA biosynthesis
+1735,PPCDC,Metabolic pathways
+1736,PPCS,Pantothenate and CoA biosynthesis
+1737,PPCS,Metabolic pathways
+1738,AASDHPPT,Pantothenate and CoA biosynthesis
+1739,BTD,Biotin metabolism
+1740,BTD,Metabolic pathways
+1741,HLCS,Biotin metabolism
+1742,HLCS,Metabolic pathways
+1743,LIPT2,Metabolic pathways
+1744,LIPT2,Lipoic acid metabolism
+1745,LIAS,Metabolic pathways
+1746,LIAS,Lipoic acid metabolism
+1747,LIPT1,Metabolic pathways
+1748,LIPT1,Lipoic acid metabolism
+1749,MOCS2,Metabolic pathways
+1750,MOCS2,Folate biosynthesis
+1751,QDPR,Metabolic pathways
+1752,QDPR,Folate biosynthesis
+1753,ALPI,Metabolic pathways
+1754,ALPI,Folate biosynthesis
+1755,GCH1,Metabolic pathways
+1756,GCH1,Folate biosynthesis
+1757,SPR,Metabolic pathways
+1758,SPR,Folate biosynthesis
+1759,PTS,Metabolic pathways
+1760,PTS,Folate biosynthesis
+1761,FPGS,Metabolic pathways
+1762,FPGS,Folate biosynthesis
+1763,GGH,Folate biosynthesis
+1764,MOCS1,Metabolic pathways
+1765,MOCS1,Folate biosynthesis
+1766,DHRS4L2,Metabolic pathways
+1767,DHRS4L2,Retinol metabolism
+1768,LRAT,Retinol metabolism
+1769,ALDH1A1,Metabolic pathways
+1770,ALDH1A1,Retinol metabolism
+1771,PNPLA4,Retinol metabolism
+1772,RPE65,Retinol metabolism
+1773,CYP2A13,Drug metabolism - cytochrome P450
+1774,CYP2A13,Retinol metabolism
+1775,CYP2A13,Drug metabolism - other enzymes
+1776,AWAT2,Retinol metabolism
+1777,RETSAT,Retinol metabolism
+1778,CYP26C1,Retinol metabolism
+1779,SDR16C5,Metabolic pathways
+1780,SDR16C5,Retinol metabolism
+1781,RDH11,Metabolic pathways
+1782,RDH11,Retinol metabolism
+1783,BCO1,Metabolic pathways
+1784,BCO1,Retinol metabolism
+1785,UROD,Porphyrin and chlorophyll metabolism
+1786,UROD,Metabolic pathways
+1787,HMBS,Porphyrin and chlorophyll metabolism
+1788,HMBS,Metabolic pathways
+1789,UROS,Porphyrin and chlorophyll metabolism
+1790,UROS,Metabolic pathways
+1791,ALAD,Porphyrin and chlorophyll metabolism
+1792,ALAD,Metabolic pathways
+1793,FECH,Porphyrin and chlorophyll metabolism
+1794,FECH,Metabolic pathways
+1795,CPOX,Porphyrin and chlorophyll metabolism
+1796,CPOX,Metabolic pathways
+1797,PPOX,Porphyrin and chlorophyll metabolism
+1798,PPOX,Metabolic pathways
+1799,HCCS,Porphyrin and chlorophyll metabolism
+1800,COX10,Porphyrin and chlorophyll metabolism
+1801,EARS2,Porphyrin and chlorophyll metabolism
+1802,EARS2,Metabolic pathways
+1803,EARS2,Aminoacyl-tRNA biosynthesis
+1804,HMOX1,Porphyrin and chlorophyll metabolism
+1805,COX15,Porphyrin and chlorophyll metabolism
+1806,FTMT,Porphyrin and chlorophyll metabolism
+1807,MMAB,Porphyrin and chlorophyll metabolism
+1808,MMAB,Metabolic pathways
+1809,GGPS1,Metabolic pathways
+1810,GGPS1,Terpenoid backbone biosynthesis
+1811,HMGCR,Metabolic pathways
+1812,HMGCR,Terpenoid backbone biosynthesis
+1813,FDPS,Metabolic pathways
+1814,FDPS,Terpenoid backbone biosynthesis
+1815,MVD,Metabolic pathways
+1816,MVD,Terpenoid backbone biosynthesis
+1817,MVK,Metabolic pathways
+1818,MVK,Terpenoid backbone biosynthesis
+1819,IDI1,Metabolic pathways
+1820,IDI1,Terpenoid backbone biosynthesis
+1821,PMVK,Metabolic pathways
+1822,PMVK,Terpenoid backbone biosynthesis
+1823,PDSS1,Terpenoid backbone biosynthesis
+1824,DHDDS,Terpenoid backbone biosynthesis
+1825,CA1,Nitrogen metabolism
+1826,SULT1A3,Sulfur metabolism
+1827,SULT1A4,Sulfur metabolism
+1828,SUOX,Sulfur metabolism
+1829,CHST11,Sulfur metabolism
+1830,RARS2,Aminoacyl-tRNA biosynthesis
+1831,NARS1,Aminoacyl-tRNA biosynthesis
+1832,DARS1,Aminoacyl-tRNA biosynthesis
+1833,GARS1,Aminoacyl-tRNA biosynthesis
+1834,QARS1,Metabolic pathways
+1835,QARS1,Aminoacyl-tRNA biosynthesis
+1836,HARS2,Aminoacyl-tRNA biosynthesis
+1837,SARS1,Aminoacyl-tRNA biosynthesis
+1838,KARS1,Aminoacyl-tRNA biosynthesis
+1839,AARS2,Aminoacyl-tRNA biosynthesis
+1840,PARS2,Aminoacyl-tRNA biosynthesis
+1841,TARS2,Aminoacyl-tRNA biosynthesis
+1842,CARS2,Aminoacyl-tRNA biosynthesis
+1843,FARSA,Aminoacyl-tRNA biosynthesis
+1844,YARS2,Aminoacyl-tRNA biosynthesis
+1845,EPHX1,Metabolism of xenobiotics by cytochrome P450
+1846,CYP2D6,Drug metabolism - cytochrome P450
+1847,CYP2B6,Drug metabolism - cytochrome P450
+1848,FMO2,Drug metabolism - cytochrome P450
+1849,CES2,Metabolic pathways
+1850,CES2,Drug metabolism - other enzymes
+1851,TPMT,Drug metabolism - other enzymes
+1852,CES5A,Metabolic pathways
+1853,CES5A,Drug metabolism - other enzymes
+1854,HACD1,Biosynthesis of unsaturated fatty acids
+1855,ACAA1,Biosynthesis of unsaturated fatty acids
+1856,HSD17B12,Biosynthesis of unsaturated fatty acids
+1857,SCD5,Biosynthesis of unsaturated fatty acids
+1858,ACOT4,Biosynthesis of unsaturated fatty acids
+1859,TECR,Biosynthesis of unsaturated fatty acids
+1860,TGDS,Metabolic pathways
+1861,PON1,Metabolic pathways
+1862,CERS1,Metabolic pathways
+1863,PLAAT3,Metabolic pathways
+1864,PRDX4,Metabolic pathways
+1865,MTM1,Metabolic pathways
+1866,ASPG,Metabolic pathways
+1867,CMBL,Metabolic pathways
+1868,TRIT1,Metabolic pathways
